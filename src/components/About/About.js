@@ -8,9 +8,9 @@ const About = () => {
             <div className='about-heading'data-aos="flip-left">
                 <strong>About Me</strong>
                 <h3>The best way to predict future is to invent it!</h3>
-                <a href='tel:0374481936' className='btn-link'>
-                    932-176-9174
-                    <i class="fa-solid fa-phone-flip"></i>
+                <a href='mailto:chaitalipadalkar2002@gmail.com' className='btn-link'>
+                    Email
+                    <i class="fa-solid fa-envelope"></i>
                 </a><br></br><br></br>
                 <a href='https://www.linkedin.com/in/chaitali-padalkar-61b589230/' className='btn-link linkedin'>
                     Chaitali Padalkar - Linkedin

@@ -26,12 +26,12 @@ A problem statement given by DRDO Organization ‘Develop a system to enable Spe
                 <h2>Chaitali Padalkar<br/> <span> Front-end and App Developer</span></h2>
 
                 <div className='social'>
-                  <a href='#!'>
-                    <i class="fa-brands fa-facebook"></i>
+                  <a href='https://www.linkedin.com/in/chaitali-padalkar-61b589230/'>
+                    <i class="fa-brands fa-linkedin"></i>
                   </a>
 
-                  <a href='#!'>
-                    <i class="fa-brands fa-youtube"></i>
+                  <a href='https://github.com/Chaitali2209'>
+                    <i class="fa-brands fa-github"></i>
                   </a>
                 
 
